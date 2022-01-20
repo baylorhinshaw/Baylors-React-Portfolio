@@ -1,29 +1,42 @@
 .home {
-    height: 100%;
+    height: 90vh;
     text-align: center;
 }
 
 .location {
-    padding-top: 30px;
-    font-size: 30px;
+    padding-top: 40px;
+    font-size: 50px;
+}
+
+.soft-eng {
+    font-size: 35px;
+    padding-top: 20px;
+}
+
+.desc {
+    width: 100%;
+    font-size: 25px;
 }
 
 .pin {
-    width: 25px;
-    height: 25px;
-}
-
-.lnt {
-    width: 25px;
-    height: 25px;
+    width: 50px;
+    height: 50px;
 }
 
 .bae {
-    width: 250px;
+    width: 300px;
     height: auto;
     border-radius: 50%;
+    border: 2px black solid;
 }
 
-.landt {
+.txtlnt {
+    font-size: 20px;
+    padding-top: 40px;
+}
 
+.lnt {
+    width: 50px;
+    height: 50px;
+    padding-top: 15px;
 }

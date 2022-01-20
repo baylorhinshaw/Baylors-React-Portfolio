@@ -18,10 +18,10 @@ function Home() {
     return (
         <div className='home'>
             <div className='location'><img class="pin" src={pin} alt="pin"></img>Atlanta, GA</div>
-            <div>Software Engineer</div>
-            <p>I am currently a student at Georgia Techs Full-Stack Coding Bootcamp. I create well designed applications focused on seamless functionality and engagement.</p>
+            <div className='soft-eng'>Software Engineer</div>
+            <p className='desc'>I am currently a student at Georgia Techs Full-Stack Coding Bootcamp. I create well designed applications focused on seamless functionality and engagement.</p>
             <img className="bae" alt="baylor hishaw" src={bae}/>
-            <div className="landt">Languages and Tools:</div>
+            <div className='txtlnt'>Languages and Tools:</div>
                 <img className="lnt" alt="Visual Studio Code" src={vsc}/>
                 <img className="lnt" alt="HTML5" src={html}/>
                 <img className="lnt" alt="CSS3" src={css}/>
