@@ -1,0 +1,29 @@
+.home {
+    height: 100%;
+    text-align: center;
+}
+
+.location {
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.pin {
+    width: 25px;
+    height: 25px;
+}
+
+.lnt {
+    width: 25px;
+    height: 25px;
+}
+
+.bae {
+    width: 250px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.landt {
+
+}

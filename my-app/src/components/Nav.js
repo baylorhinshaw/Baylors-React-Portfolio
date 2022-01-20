@@ -1,0 +1,21 @@
+import './Nav.css';
+import { Link } from 'react-router-dom';
+
+function Nav() {
+  return (
+    <div className='nav'>
+            <div class="navleft">
+                <h1>Baylor Hinshaw</h1>
+            </div>
+            <div class="navright">
+                <Link to="/">Home</Link>
+                <Link to="/aboutme">About Me</Link>
+                <Link to="/portfolio">Portfolio</Link>
+                <Link to="/contact">Contact</Link>
+                <a href="#">Resume</a>
+            </div>
+    </div>
+  );
+}
+
+export default Nav;
