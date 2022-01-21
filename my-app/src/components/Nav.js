@@ -1,5 +1,6 @@
 import './Nav.css';
 import { Link } from 'react-router-dom';
+import resume from '../images/resume.pdf'
 
 function Nav() {
   return (
@@ -12,7 +13,7 @@ function Nav() {
                 <Link to="/aboutme">About Me</Link>
                 <Link to="/portfolio">Portfolio</Link>
                 <Link to="/contact">Contact</Link>
-                <a href="#">Resume</a>
+                <a href={resume}>Resume</a>
             </div>
     </div>
   );
