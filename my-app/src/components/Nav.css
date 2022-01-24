@@ -16,13 +16,13 @@
 
 .navleft{
     display: flex;
-    width: 75vw;
+    width: 30%;
 }
   
 .navright {
     display: flex;
     justify-content: flex-end;
-    width: 25vw;
+    width: 70%;
 }
 
 
