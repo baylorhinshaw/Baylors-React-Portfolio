@@ -9,7 +9,7 @@ function Nav() {
                 <h1>Baylor Hinshaw</h1>
             </div>
             <div class="navright">
-                <Link to="/">Home</Link>
+                <Link to="/home">Home</Link>
                 <Link to="/aboutme">About Me</Link>
                 <Link to="/portfolio">Portfolio</Link>
                 <Link to="/contact">Contact</Link>

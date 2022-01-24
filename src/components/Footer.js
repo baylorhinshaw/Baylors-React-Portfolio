@@ -9,7 +9,7 @@ function Footer() {
         <div className='footer'>
             <a href="https://github.com/baylorhinshaw" target="_blank"><img class="logo" src={githubLogo} alt="github logo"></img></a>
             <a href="https://www.linkedin.com/in/baylorhinshaw/" target="_blank"> <img class="logo" src={linkedinLogo} alt="linkedin logo"></img></a>
-            <Link to="/"><img class="logo" src={homeLogo} alt="home"></img></Link>
+            <Link to="/home"><img class="logo" src={homeLogo} alt="home"></img></Link>
         </div>
     );
 }
