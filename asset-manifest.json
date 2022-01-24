@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Baylors-React-Portfolio/static/css/main.f272b179.css",
-    "main.js": "/Baylors-React-Portfolio/static/js/main.4102daa5.js",
+    "main.js": "/Baylors-React-Portfolio/static/js/main.bb13a6fc.js",
     "static/media/Golf_Score.gif": "/Baylors-React-Portfolio/static/media/Golf_Score.ebf3c5fe6c4569eb3a73.gif",
     "static/media/marianna-smiley-y3BBVEpMl4E-unsplash.jpg": "/Baylors-React-Portfolio/static/media/marianna-smiley-y3BBVEpMl4E-unsplash.839500fc3b74e04677a7.jpg",
     "static/media/bae.png": "/Baylors-React-Portfolio/static/media/bae.acc9a577b7ea313bbc88.png",
@@ -26,10 +26,10 @@
     "static/media/javascript.png": "/Baylors-React-Portfolio/static/media/javascript.e90bb68d1b9ccc556f91.png",
     "index.html": "/Baylors-React-Portfolio/index.html",
     "main.f272b179.css.map": "/Baylors-React-Portfolio/static/css/main.f272b179.css.map",
-    "main.4102daa5.js.map": "/Baylors-React-Portfolio/static/js/main.4102daa5.js.map"
+    "main.bb13a6fc.js.map": "/Baylors-React-Portfolio/static/js/main.bb13a6fc.js.map"
   },
   "entrypoints": [
     "static/css/main.f272b179.css",
-    "static/js/main.4102daa5.js"
+    "static/js/main.bb13a6fc.js"
   ]
 }
